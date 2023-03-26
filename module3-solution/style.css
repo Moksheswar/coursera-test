@@ -1,0 +1,35 @@
+.navbar-brand{
+    text-decoration: none;
+    color: black;
+    font-size: x-large;
+    padding: 5px 30px 10px 30px;
+}
+.navbar{
+    padding-bottom: 1px;
+}
+.navbar-toggler{
+    margin: 5px 15px 15px;
+}
+#a1{
+    background-color: white;
+    border: 1px solid black;
+}
+@media (min-width: 768px){
+    .navbar-toggler{
+        display: none;
+    }
+}
+#a2{
+    padding: 15px;
+}
+#a3{
+    background-color: rgb(159, 159, 159);
+    border: 12px solid rgb(255, 255, 255);
+    padding: 10px;
+}
+h5{
+    text-align: center;
+}
+p{
+    text-align: justify;
+}
